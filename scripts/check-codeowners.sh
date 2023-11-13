@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#script for code 
 
 cat <<EOF
 # See https://github.com/scottrigby/prometheus-helm-charts/issues/12

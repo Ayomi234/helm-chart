@@ -1,3 +1,5 @@
+#alert managers for services 
+
 {{- if .Values.config.enabled }}
 apiVersion: v1
 kind: ConfigMap

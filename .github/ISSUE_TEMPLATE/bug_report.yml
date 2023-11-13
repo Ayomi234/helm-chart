@@ -1,3 +1,4 @@
+#used to report bug
 name: Bug Report
 description: Create a report to help us improve
 title: "[name of the chart e.g. prometheus-kube-stack] Issue Title"
